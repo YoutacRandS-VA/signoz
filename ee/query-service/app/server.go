@@ -72,7 +72,6 @@ type ServerOptions struct {
 	FluxInterval      string
 	Cluster           string
 	GatewayUrl        string
-	TenantId          string
 }
 
 // Server runs HTTP api service
