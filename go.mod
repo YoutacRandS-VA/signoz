@@ -40,7 +40,7 @@ require (
 	github.com/posthog/posthog-go v0.0.0-20220817142604-0b0bbf0f9c0f
 	github.com/prometheus/common v0.44.0
 	github.com/prometheus/prometheus v2.5.0+incompatible
-	github.com/rs/cors v1.10.1
+	github.com/rs/cors v1.11.0
 	github.com/russellhaering/gosaml2 v0.9.0
 	github.com/russellhaering/goxmldsig v1.2.0
 	github.com/samber/lo v1.38.1
@@ -64,11 +64,11 @@ require (
 	go.opentelemetry.io/otel/sdk v1.23.1
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.27.0
-	golang.org/x/crypto v0.24.0
+	golang.org/x/crypto v0.31.0
 	golang.org/x/exp v0.0.0-20230713183714-613f0c0eb8a1
 	golang.org/x/net v0.26.0
 	golang.org/x/oauth2 v0.16.0
-	golang.org/x/text v0.16.0
+	golang.org/x/text v0.21.0
 	google.golang.org/grpc v1.62.0
 	google.golang.org/protobuf v1.33.0
 	gopkg.in/segmentio/analytics-go.v3 v3.1.0
@@ -196,8 +196,8 @@ require (
 	go.opentelemetry.io/proto/otlp v1.0.0 // indirect
 	go.uber.org/atomic v1.11.0 // indirect
 	go.uber.org/goleak v1.3.0 // indirect
-	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/sys v0.21.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	gonum.org/v1/gonum v0.14.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
